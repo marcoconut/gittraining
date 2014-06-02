@@ -1,0 +1,2 @@
+content for conflict1
+content for conflict2
